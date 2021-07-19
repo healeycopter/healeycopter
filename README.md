@@ -2,7 +2,7 @@
 - 👀 I’m interested in c#, AWS, DevOps
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on no projects yet
-- 📫 How to reach me healey.mark@gmail
+- 📫 How to reach me healey.mark@gmail.comß
 
 <!---
 healeycopter/healeycopter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
